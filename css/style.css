@@ -1,0 +1,11 @@
+footer {margin-bottom: 0; text-align: center; margin-top: 400px;}
+
+li {display:inline-block; float:right; background-color: rgba(96, 96, 96,0.6) ;}
+
+h1 {text-align: center;}
+
+td {border:solid; border-color: #eee;}
+
+* { font-family: 'Roboto';color:black; font-weight: bold;}
+
+nav,table,form {background-color: rgba(96, 96, 96,0.6); color: #eee;font-weight: bold;}
