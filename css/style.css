@@ -14,6 +14,6 @@ nav {height: 85px;}
 
 #tableArea {display: inline-block;vertical-align:top;margin-top: 85px;background-color: rgba(96, 96, 96,0.6)}
 
-body {background-image:url(/img/bg.jpg);background-repeat: no-repeat;background-size: cover;}
+body {background-image:url(./img/bg.jpg);background-repeat: no-repeat;background-size: cover;}
 
 tfoot {text-align: center;}
