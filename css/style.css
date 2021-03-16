@@ -1,11 +1,19 @@
-footer {margin-bottom: 0; text-align: center; margin-top: 400px;}
+footer {margin-bottom: 0; text-align: center; margin-top: 400px; font-family: 'Roboto';color:#eee; font-weight: bold;}
 
-li {display:inline-block; float:right; background-color: rgba(96, 96, 96,0.6) ;}
+#links {display:inline-block; float:right;color: #eee; font-family: 'Roboto'; font-weight: bold;}
 
-h1 {text-align: center;}
+#title {margin-left: 50%;font-weight: bold;font-size: 30px;color: #eee; font-family: 'Roboto';font-weight: bold;}
 
-td {border:solid; border-color: #eee;}
+td {border:solid; border-color: #eee;width: 120px;text-align: center;font-family: 'Roboto'}
 
-* { font-family: 'Roboto';color:black; font-weight: bold;}
+nav,table,form,div {background-color: rgba(96, 96, 96,0.6); color: #eee;font-weight: bold;margin: 25px;font-family: 'Roboto'}
 
-nav,table,form {background-color: rgba(96, 96, 96,0.6); color: #eee;font-weight: bold;}
+nav {height: 85px;}
+
+#left {display: inline-block; margin-top: 85px;display: inline-block;margin-left: 125px;}
+
+#tableArea {display: inline-block;vertical-align:top;margin-top: 85px;background-color: rgba(96, 96, 96,0.6)}
+
+body {background-image:url(/img/bg.jpg);background-repeat: no-repeat;background-size: cover;}
+
+tfoot {text-align: center;}
